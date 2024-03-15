@@ -1,0 +1,3 @@
+Repositry Belajar cpp adalah media untuk belajar bahasa pemrograman c++
+- silahkan digunakan untuk bereksperimen
+- enjoy coding........
